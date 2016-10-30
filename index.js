@@ -1,5 +1,5 @@
 'use strict'
-const haxeBinary = require('haxe').haxe
+const haxeBinary = require('haxe')
 const gutil = require('gulp-util')
 const fs = require('fs')
 const path = require('path')
